@@ -1,0 +1,12 @@
+[Notebook]
+version=0.4
+name=ZIM-Notes
+interwiki=
+home=Home
+icon=/usr/share/code/resources/app/resources/linux/code.png
+document_root=~/ZIM-Notes
+shared=True
+endofline=unix
+disable_trash=False
+profile=
+

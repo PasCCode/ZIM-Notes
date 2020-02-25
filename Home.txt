@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-25T09:36:58+01:00
+
+====== Domain Authority ======
+
+
+* Webseite, die eine Referenz für ein bestimmtes Thema ist
+
+
+===== Dimensionen der Domain Authority =====
+
+1. Ansehen der Webseite und ihrer Autoren
+2. Quality der angebotenen Informationen
+3. Bedeutuing des Themas
+4. kompetitive Situation im betroffenen Themenbereich (wieviele andere Webseiten zum gleichen Thema gibt es, wie gut sind diese Webseiten)
+
+
+===== OnPage Faktoren =====
+
+* Keywords in den Titeln der URLs
+* Anzahl der Keyword und URLs
+* Überschriften mit wichtigen Keywords
+* Aufbau der Seite und interne Verlinkung
+* Alt-Texte
+
+
+===== OffPage Faktoren =====
+
+* im Vergleich zum Umfeld viele Domain-Links
+* Links sind nicht alle auf einmal entstanden, sondern organisch über die Zeit hinweg
+* Links zeigen ausdrücklich auf verschiedene Unterseiten und kommen von hochwertigen, vertrauenswürdigen Webseiten
+* viele Erwähnungen der Seite in Foren oder Social Media
+* ausgehende Links verweisen auf hochwertige Webseiten und bieten dem Nutzer sinnvolle, weiterführende Informationen an
+* die Bekanntheit des Autors
+* gute Social Signals
+
+
